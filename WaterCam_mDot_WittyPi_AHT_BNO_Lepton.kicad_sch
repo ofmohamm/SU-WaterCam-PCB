@@ -8626,7 +8626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -8711,7 +8711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Adafruit BNO055:1X06_ROUND_76"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 204.47 40.64 0)
 			(effects
 				(font
@@ -8861,7 +8861,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Adafruit AHT20 Temperature & Humidity:1X04_ROUND_76"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 52.07 124.46 0)
 			(effects
 				(font
@@ -9008,7 +9008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x10_P2.00mm_Vertical"
 			(at 232.41 96.52 0)
 			(effects
 				(font
@@ -9169,7 +9169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x08_P2.00mm_Vertical"
 			(at 214.63 119.38 0)
 			(effects
 				(font
@@ -9326,7 +9326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 245.11 54.61 0)
 			(effects
 				(font
@@ -9777,7 +9777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x10_P2.00mm_Vertical"
 			(at 203.2 95.25 0)
 			(effects
 				(font
@@ -9869,7 +9869,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 			(at 134.62 118.11 0)
 			(effects
 				(font
