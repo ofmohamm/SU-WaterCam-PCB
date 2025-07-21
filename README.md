@@ -4,7 +4,7 @@ This repository contains the KiCad design files for **WaterCam**, a custom PCB i
 
 ---
 
-## 🔧 Design Overview
+## Design Overview
 
 - **Layers**: 2-layer PCB (F.Cu, B.Cu)
 - **Components**:
