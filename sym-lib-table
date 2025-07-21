@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Adafruit BNO055 STEMMA QT-eagle-import")(type "KiCad")(uri "/Users/work/Documents/KiCad/9.0/symbols/Adafruit BNO055 STEMMA QT-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "mDOT")(type "KiCad")(uri "${KIPRJMOD}/mDOT.kicad_sym")(options "")(descr ""))
+  (lib (name "WaterCam_mDot_WittyPi_AHT_BNO_Lepton-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/WaterCam_mDot_WittyPi_AHT_BNO_Lepton-eagle-import.kicad_sym")(options "")(descr ""))
+)

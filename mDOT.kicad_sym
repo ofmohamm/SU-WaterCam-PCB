@@ -1,0 +1,573 @@
+(kicad_symbol_lib
+	(version 20241209)
+	(generator "kicad_symbol_editor")
+	(generator_version "9.0")
+	(symbol "MTDOT-915"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "MTDOT"
+			(at 17.272 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "MTDOT-915_1_0"
+			(pin input line
+				(at -2.54 45.72 0)
+				(length 2.54)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 41.91 0)
+				(length 2.54)
+				(name "PA_2"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 38.1 0)
+				(length 2.54)
+				(name "PA_3"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 34.29 0)
+				(length 2.54)
+				(name "PA_6"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 30.48 0)
+				(length 2.54)
+				(name "NRESET"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 26.67 0)
+				(length 2.54)
+				(name "PA_8"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 22.86 0)
+				(length 2.54)
+				(name "PA_9"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 19.05 0)
+				(length 2.54)
+				(name "RFU"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 15.24 0)
+				(length 2.54)
+				(name "PA_11"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -2.54 11.43 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 5.08 -2.54 90)
+				(length 2.54)
+				(name "VOUT"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 8.89 -2.54 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 12.7 -2.54 90)
+				(length 2.54)
+				(name "PA_14"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 16.51 -2.54 90)
+				(length 2.54)
+				(name "PA_13"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 20.32 -2.54 90)
+				(length 2.54)
+				(name "PB_4"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 24.13 -2.54 90)
+				(length 2.54)
+				(name "PB_3"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 27.94 -2.54 90)
+				(length 2.54)
+				(name "PA_10"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 31.75 -2.54 90)
+				(length 2.54)
+				(name "PA_9"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 45.72 180)
+				(length 2.54)
+				(name "PB_1"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 41.91 180)
+				(length 2.54)
+				(name "PB_0"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 38.1 180)
+				(length 2.54)
+				(name "PA_5"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 34.29 180)
+				(length 2.54)
+				(name "PA_4"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 30.48 180)
+				(length 2.54)
+				(name "PA_1"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 26.67 180)
+				(length 2.54)
+				(name "PC_1"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 22.86 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 19.05 180)
+				(length 2.54)
+				(name "PC_13"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 15.24 180)
+				(length 2.54)
+				(name "PA_0"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 39.37 11.43 180)
+				(length 2.54)
+				(name "PA_7"
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(number ""
+					(effects
+						(font
+							(size 0 0)
+						)
+					)
+				)
+			)
+		)
+		(symbol "MTDOT-915_1_1"
+			(rectangle
+				(start 0 48.26)
+				(end 36.83 0)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)
