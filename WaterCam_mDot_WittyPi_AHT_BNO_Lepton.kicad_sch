@@ -4205,10 +4205,6 @@
 		(uuid "c308d3d8-3799-4811-a43c-ba4271931291")
 	)
 	(no_connect
-		(at 231.14 54.61)
-		(uuid "c9f18c76-e423-4495-be27-7b50bb71abc9")
-	)
-	(no_connect
 		(at 198.12 83.82)
 		(uuid "cc9ee8f6-3d75-4554-93ef-124f290886fb")
 	)
@@ -4311,6 +4307,16 @@
 			(type default)
 		)
 		(uuid "0b77ff66-400d-49d9-a5fd-fbe2ecdee19b")
+	)
+	(wire
+		(pts
+			(xy 233.68 54.61) (xy 231.14 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c00f054-43c9-4d14-9df6-08d2938c4c3a")
 	)
 	(wire
 		(pts
@@ -7400,6 +7406,69 @@
 			(project ""
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 233.68 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b2d054d2-721f-4b18-8913-ef76caf29224")
+		(property "Reference" "#PWR04"
+			(at 233.68 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 233.7943 58.9344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 233.68 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 233.68 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 233.68 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "223eb58d-cc73-4b82-96e0-294263dbf343")
+		)
+		(instances
+			(project "WaterCam_mDot_WittyPi_AHT_BNO_Lepton"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)

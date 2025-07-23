@@ -1,10 +1,32 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 33,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "/GPIO16",
+      "+5V",
+      "/GPIO17",
+      "/GPIO14{slash}TXD0",
+      "/GPIO15{slash}RXD0",
+      "/GPIO22",
+      "/GPIO25",
+      "/GPIO19{slash}PCM.FS",
+      "/GPIO5",
+      "/GPIO20{slash}PCM.DIN",
+      "/GPIO11{slash}SPI0.SCLK",
+      "/GPIO12{slash}PWM0",
+      "/GPIO27",
+      "/GPIO18{slash}PCM.CLK",
+      "/GPIO26",
+      "/GPIO3{slash}SCL1",
+      "/GPIO23",
+      "/GPIO13{slash}PWM1",
+      "/GPIO10{slash}SPI0.MOSI",
+      "/GPIO21{slash}PCM.DOUT",
+      "/GPIO24"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -48,7 +70,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55555555_575555f5",
+    "visible_layers": "00000000_00000000_55557fdf_fffffffe",
     "zone_display_mode": 0
   },
   "git": {
