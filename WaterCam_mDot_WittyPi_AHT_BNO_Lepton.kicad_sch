@@ -4189,6 +4189,10 @@
 		(uuid "ba2090ba-d1b0-4175-abad-dc789983df3a")
 	)
 	(no_connect
+		(at 60.96 27.94)
+		(uuid "baf59d54-fa9b-4282-84aa-f8d6a0e12ca1")
+	)
+	(no_connect
 		(at 100.33 60.96)
 		(uuid "bb504bb4-be7f-4431-90dd-4d1c842e41b5")
 	)
@@ -4417,6 +4421,16 @@
 			(type default)
 		)
 		(uuid "157ffc1e-7810-45e5-9986-1856531a0abe")
+	)
+	(wire
+		(pts
+			(xy 127 43.18) (xy 138.43 43.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "160b4b8f-20c4-4c35-b4f3-a1ee60277610")
 	)
 	(wire
 		(pts
@@ -4730,16 +4744,6 @@
 	)
 	(wire
 		(pts
-			(xy 127 43.18) (xy 138.43 43.18)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "4704dec8-63e6-419a-aec7-0fcecc466601")
-	)
-	(wire
-		(pts
 			(xy 73.66 43.18) (xy 76.2 43.18)
 		)
 		(stroke
@@ -4970,6 +4974,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 46.99) (xy 138.43 46.99)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6ded5bea-1c83-4c45-9fa3-eeb8bb756ff3")
+	)
+	(wire
+		(pts
 			(xy 133.35 74.93) (xy 133.35 97.79)
 		)
 		(stroke
@@ -5077,16 +5091,6 @@
 			(type solid)
 		)
 		(uuid "7d1a0af8-a3d8-4dbb-9873-21a280e175b7")
-	)
-	(wire
-		(pts
-			(xy 129.54 46.99) (xy 138.43 46.99)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "81c7375d-2ad5-4270-aeab-f1de22dc75ba")
 	)
 	(wire
 		(pts
@@ -5230,7 +5234,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 90.17) (xy 129.54 46.99)
+			(xy 129.54 46.99) (xy 129.54 90.17)
 		)
 		(stroke
 			(width 0.1524)
@@ -5918,16 +5922,6 @@
 		)
 		(uuid "6a63dbe8-50e2-4ffb-a55f-e0df0f695e9b")
 	)
-	(label "GPIO3{slash}SCL1"
-		(at 128.27 46.99 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "72d9261d-bea2-47b0-8fef-4de0aa0b4248")
-	)
 	(label "GPIO22"
 		(at 31.75 45.72 0)
 		(effects
@@ -5937,16 +5931,6 @@
 			(justify left bottom)
 		)
 		(uuid "831c710c-4564-4e13-951a-b3746ba43c78")
-	)
-	(label "GPIO2{slash}SDA1"
-		(at 128.27 43.18 0)
-		(effects
-			(font
-				(size 1.2446 1.2446)
-			)
-			(justify left bottom)
-		)
-		(uuid "8b2e4cc2-ce71-4cfe-a324-98b0795cbdb7")
 	)
 	(label "GPIO2{slash}SDA1"
 		(at 31.75 30.48 0)
