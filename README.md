@@ -1,6 +1,6 @@
 # SU WaterCam PCB
 
-This repository contains the KiCad design files for **WaterCam**, a custom PCB integrating the FLIR Lepton thermal camera, Bosch BNO055 IMU, Multitech mDot LoRa module, and Witty Pi 4 RTC board. 
+This repository contains the KiCad design files for a custom PCB for **SU-WaterCam**, integrating the FLIR Lepton thermal camera, Bosch BNO055 IMU, Multitech mDot LoRa module, and Witty Pi 4 RTC board. 
 
 ---
 
