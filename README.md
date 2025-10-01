@@ -47,11 +47,11 @@ Library tables (`fp-lib-table` and `sym-lib-table`) are included and use relativ
 
 ---
 
-## 📷 PCB Images
+## 📷 PCB Images  
 
 - **Wiring/Layout Diagram**  
-  <img width="945" height="521" alt="Wiring/Layout Diagram of SU-WaterCam PCB" src="https://github.com/user-attachments/assets/d6411cc1-ba6d-43ef-b311-78df43dfbbb7" />  
+  <img src="https://github.com/user-attachments/assets/d6411cc1-ba6d-43ef-b311-78df43dfbbb7" width="600" alt="Wiring/Layout Diagram of SU-WaterCam PCB" />  
 
 - **PCB Render**  
-  <img width="667" height="403" alt="3D Render of SU-WaterCam PCB" src="https://github.com/user-attachments/assets/2e79f4ec-2771-4074-9adf-4b85ffbe03e6" />  
+  <img src="https://github.com/user-attachments/assets/2e79f4ec-2771-4074-9adf-4b85ffbe03e6" width="600" alt="3D Render of SU-WaterCam PCB" />  
 
