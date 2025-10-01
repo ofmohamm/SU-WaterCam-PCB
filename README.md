@@ -44,3 +44,14 @@ The project uses custom symbols and footprints located in:
 - `footprints/Witty Pi 4.pretty`
 
 Library tables (`fp-lib-table` and `sym-lib-table`) are included and use relative paths for portability.
+
+---
+
+## 📷 PCB Images
+
+- **Wiring/Layout Diagram**
+<img width="945" height="521" alt="Screenshot 2025-08-27 at 5 42 47 PM" src="https://github.com/user-attachments/assets/d6411cc1-ba6d-43ef-b311-78df43dfbbb7" />
+
+- **PCB Render**
+<img width="667" height="403" alt="Screenshot 2025-08-27 at 5 43 00 PM" src="https://github.com/user-attachments/assets/2e79f4ec-2771-4074-9adf-4b85ffbe03e6" />
+
